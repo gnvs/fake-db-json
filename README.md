@@ -6,4 +6,4 @@
 
 ### Пример
 <p>Данные находятся на тестовом сервере https://fake-json-shop-heroku.herokuapp.com/ для <br>
-примера работы страницы доставки на js. https://github.com/gnvs/dostavka-shop-js</p>
+примера работы страницы доставки на js. https://github.com/gnvs/fake-dostavka-shop</p>
